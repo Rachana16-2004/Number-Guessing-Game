@@ -19,9 +19,9 @@ A simple web-based number guessing game where users try to guess a random number
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- CSS
+- JavaScript 
 
 ## 🧠 How to Play
 
