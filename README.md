@@ -1,1 +1,39 @@
-# Number-Guessing-Game
+# 🎯 Number Guessing Game
+
+A simple web-based number guessing game where users try to guess a random number between 1 and 100. The game provides feedback on whether the guess is too high or too low and displays the total number of attempts once the correct number is guessed.
+
+## 🚀 Features
+
+- Random number generation between 1 and 100
+- Real-time user feedback (too high / too low / correct)
+- Attempt counter
+- Restart game functionality
+- Simple and responsive UI
+
+## 📂 Project Structure
+
+.
+├── index.html 
+├── style.css 
+└── script.js
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 🧠 How to Play
+
+1. Open `index.html` in your browser.
+2. Enter a guess between 1 and 100.
+3. Click "Guess".
+4. Continue guessing until you find the correct number.
+5. Once correct, see the number of attempts and click "Play Again" to restart.
+
+## 🧑‍💻 Setup
+
+To run the game locally:
+git clone https://github.com/your-username/number-guessing-game.git
+cd number-guessing-game
+open index.html
