@@ -31,9 +31,3 @@ A simple web-based number guessing game where users try to guess a random number
 4. Continue guessing until you find the correct number.
 5. Once correct, see the number of attempts and click "Play Again" to restart.
 
-## 🧑‍💻 Setup
-
-To run the game locally:
-git clone https://github.com/your-username/number-guessing-game.git
-cd number-guessing-game
-open index.html
