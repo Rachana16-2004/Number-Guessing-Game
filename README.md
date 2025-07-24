@@ -31,3 +31,7 @@ A simple web-based number guessing game where users try to guess a random number
 4. Continue guessing until you find the correct number.
 5. Once correct, see the number of attempts and click "Play Again" to restart.
 
+
+Output
+![image alt]()
+
