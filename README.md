@@ -33,5 +33,5 @@ A simple web-based number guessing game where users try to guess a random number
 
 
 Output
-![image alt]()
+![image alt](<img width="1110" height="782" alt="image" src="https://github.com/user-attachments/assets/54ed3281-a4a5-4c3b-ba93-97957b041f76" />)
 
