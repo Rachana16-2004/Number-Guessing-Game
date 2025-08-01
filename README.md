@@ -30,7 +30,6 @@ A simple web-based number guessing game where users try to guess a random number
 4. Continue guessing until you find the correct number.
 5. Once correct, see the number of attempts and click "Play Again" to restart.
 
-
 Output
 ![image alt](https://github.com/Rachana16-2004/Number-Guessing-Game/blob/main/Screenshot%202025-07-24%20235901.png?raw=true)
 
