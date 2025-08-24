@@ -13,7 +13,7 @@ A simple web-based number guessing game where users try to guess a random number
 ## 📂 Project Structure
 
 ├── index.html 
-├── style.css 
+├── style.css  
 └── script.js
 
 ## 🛠️ Technologies Used
