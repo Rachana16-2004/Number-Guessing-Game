@@ -7,7 +7,7 @@ A simple web-based number guessing game where users try to guess a random number
 - Random number generation between 1 and 100
 - Real-time user feedback (too high / too low / correct)
 - Attempt counter
-- Restart game functionality
+- Restart game functionality 
 - Simple and responsive UI
 
 ## 📂 Project Structure
