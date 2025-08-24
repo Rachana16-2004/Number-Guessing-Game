@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game
+ # 🎯 Number Guessing Game
 
 A simple web-based number guessing game where users try to guess a random number between 1 and 100. The game provides feedback on whether the guess is too high or too low and displays the total number of attempts once the correct number is guessed.
 
