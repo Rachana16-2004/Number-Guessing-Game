@@ -2,7 +2,6 @@ let randomNumber;
 let attempts;
 let gameOver = false;
 
-// Start a new game
 function startGame() {
     randomNumber = Math.floor(Math.random() * 100) + 1;
     attempts = 0;
@@ -13,7 +12,6 @@ function startGame() {
     document.getElementById('guessInput').disabled = false;
 } 
 
-// Function to check the user's guess
 function checkGuess() {
     if (gameOver) return;
 
@@ -33,13 +31,10 @@ function checkGuess() {
     }
 }
 
-// Reset the game
 function resetGame() {
     startGame();
     document.getElementById('guessInput').value = '';
     document.getElementById('guessInput').focus();
 }
-
-// Initialize the game when the page loads
-
 window.onload = startGame;
+
