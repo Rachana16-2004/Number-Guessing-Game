@@ -11,7 +11,7 @@ function startGame() {
     document.getElementById('attempts').textContent = '';
     document.getElementById('resetButton').style.display = 'none';
     document.getElementById('guessInput').disabled = false;
-}
+} 
 
 // Function to check the user's guess
 function checkGuess() {
@@ -41,4 +41,5 @@ function resetGame() {
 }
 
 // Initialize the game when the page loads
+
 window.onload = startGame;
