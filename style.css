@@ -9,7 +9,7 @@ body {
     margin: 0;  
 }
 
-.game-container {
+.game-container { 
     background-color: rgb(244, 240, 240);
     padding: 80px;
     border-radius: 20px;
@@ -54,6 +54,7 @@ button:hover {
     
 
 }
+
 
 
 
